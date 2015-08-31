@@ -1,5 +1,5 @@
 # Site settings
-title: CS371p Fall 2015: Min Bi
+title: CS371p Fall 2015 Min Bi
 description: > # this means to ignore newlines until "baseurl:"
   An awesome description. Really just an everyday blog about OOP class.
 baseurl: "/Bloggity/" # the subpath of your site, e.g. /blog/
