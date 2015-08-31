@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-08-30 21:11:10
+categories: weekly
+---
+A new semester, a new professor, a new way of learning. The class began with standard introductions. The ice-breaker moment arrived as the professor allowed us a few minutes to jot down contact info from two of our neighbors. Through a few shouts and a few "What was that?"s, I was able to get to know a few people in the loud, chattering room of freshly rested students. As we settled down and relaxed ourselves to listen to the introductory lecture, the sentences blurred and our eyes drooped looking at a simple snippet of code that was projected on the wall. Badump! My heart sank as the professor yelled out a name. "Good heavens!", I thought. This was one of those "interactive" classes. To be forever on your toes and never relaxed, a stressful semester starts.
+
+Back to the code I looked. As the professor moved from student to student, the questions seemed easy, but hard to find the right words. Could code be explained in such long winding gracious sentences? It seemed like it could. But could I do such a thing at a moment’s notice? The panic ensued. As I listened carefully not to the words, but to the names of those that he selected. “Bo”, “Bu”, and some other collection were called and selected. “Thank goodness” I thought; for he moved past the letters that would bring doom to my day. The gladness and relief ran through to my toes as I realized the low frequency of backtracking on a name list. Thus, ending my first day of distress.
+
+Tip of the Week: Do not try optimizing code without a proven backup. Tears will be shed when bugs crawl in the code.
