@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week of 6 Sept"
+date:   2015-09-06
+categories: weekly
+---
+Crying and kicking I make my way through the lovely, new tools and programs that we need to use for Project 1: Collatz Conjecture.
+
+The first cake of rust to chip off was git. As helpful as the explanations are, one must still move those commands into working memory to be able to function at the terminal. The idea of having a 'dev' branch never really occurred to me, although I have heard of creating a branch to address a certain issue. Previously, I always made a comment in the commit as to whether instance could be regarded as broken or working. A separate branch is definitely cleaner.
+
+Using new software can always to frustrating. However, after the hurdle, one comes to appreciate the new 'abilities' made available to you. The new testing suite is interesting as it is the first time I am using it. Previously, teachers would either release test cases or allow us to run their code (but not read) to compare outputs. This new way seems...more polished.
+Although admittedly little has been said, I have had enough of the project. The reading is much more relaxing. Chapters 1 and 2 have been assigned this week. They were fairly easy to read. The sentences flowed and logic appeared sound. However, with any book really, the useless words and sentences were not extinct. They may make the piece more digestible, but distilled they are not. References are abound, but only break my concentration; if only I could click a button to remove all the gunk.
+
+Tip of the Week: Although computers can follow laws, it doesn't mean it will work. It seems to be that humans will always try to find loop-holes. While other humans may shame such behavior to discourage future attempts, computers can be debilitatingly patient. So, always write programs assuming the worst of humans. [Article]({{ site.url }}http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html)
