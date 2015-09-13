@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week of 13 Sept"
+date:   2015-09-13
+categories: weekly
+---
+The week following Labor Day weekend was rough. I spent the weekend with family and while that was enjoyable it was a time-release bomb once I got back to school. I expected as much but going through it was still a handful. Finishing Collatz by double checking all the little details took about half of the entire time it took to write the program.
+
+The guest speaker (Chris Martin)'s talk was enjoyable. We got to hear some about Bloomberg and its inner workings. This was definitely different from the speeches most recruiters give as we got to hear more about the technology that they were using and not just about the company as a whole.
+
+When the class resumed on its normal track, we began discussing exceptions and the different ways they are made in C++. This was not of particular interest to me because exceptions are nasty. They happen, you deal with them. Maybe I just deal with so many of them in Java that I am jaded. However, there is always new information waiting for you. This was apparent when I was informed that 'throw' with no arguments would re-throw what was caught by the catch block. This sounded pleasant. It also reminded me of the way Perl assumes you mean something in that DWIMMY (Do What I Mean) fashion. We were also reminded not to pass references to local variables outside of the function, as they die and the programmer along with it. Ahhh, the days of PintOS.
+
+Tip of the Week: If you've ever wondered if you can remove those pesky binaries that you accidentally kept in your repo for 20 commits or you finally decided you don't need something, then look no further: [There is hope.]({{ site.url }}https://help.github.com/articles/remove-sensitive-data/)
