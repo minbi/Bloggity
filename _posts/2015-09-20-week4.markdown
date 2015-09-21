@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week of 20 Sept"
+date:   2015-09-20
+categories: weekly
+---
+This week me and my partner have begun the Voting project. This project seems to be easy enough. The logic and general cases seems to be simple to code; taking about 4 hours with a bit of debugging. The test cases and corner cases that are yet to be discovered will probably take another 4-5 hours this week and may also lead to more coding to be able to handle.
+
+Class has been interesting. I actually was a bit confused about lvalue and rvalue, but I didn't know that I had that question until I started discussing with a fellow classmate about the lecture and he mentioned lvalue. When he did, I apparently was confused, but since it was a one-on-one my, "Wait, what was that?" reponse was less inhibited and it came flying out. This led to me discovering Dr. Downing had answered that question in the other section as "lvalue = rvalue". While this does make some sense, I decided to look further. There is a simple explanation from [MSDN](https://msdn.microsoft.com/en-us/library/f90831hc.aspx).
+
+Otherwise, I assume everyone understands the general idea of the things we go over in class. However, struggle to describe it in English the proper way and also understand some of the more nit-picky aspects of the behavior of code. While it is good to understand, I'm not certain I would ever code something in that ways that are shown. However, that's not to say that I'll never encounter it or be forced to write it in that way due to some kind of constraint.
+
+Tip of the Week: When printing debug statements and they are interspersed between multiple lines, it may be wise to create a wrapper for printf. However, you may consider that this cannot be easily removed from compiled code without the use of regex search and destroy.
