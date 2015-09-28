@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week of 27 Sept"
+date:   2015-09-27
+categories: weekly
+---
+Iterate over this. Iterate over that. Do we ever do anything different in computer science? Well, apparently even the thing that we do most often can be categorized in a few different ways. In short, there is an input, output, forward, bidirectional, and random access iterator that can be used in different scenarios. The basic idea is to use the least powerful on as possible to prevent requirements that are not necessary.
+
+We got a nice break in the rhythm when Alex Menzies came by to talk about the Jet Propulsion Lab at NASA. The video demos of some of the actions that their robotics could do was cool to watch and it was good to hear some of the challenges that they had to overcome.
+
+My partner and I finished up the Voting project with some more unit tests and documentation as the clock ticked towards the deadline. I have to say that the requirement to have 3 unit tests per function/method is a little ridiculous if you include very simple constructors and getter functions. Constructors could be tested with various values, but how rigorous can you be? Also, when testing getter and setter methods, these are essentially the same test repeated multiple times. If I am not mistaken, the setter method has to be called to set the attribute and then the getter method has to be called to get the attribute that was set. How can you avoid calling the other when testing one?
+
+Tip of the Week: When considering whether anyone cares if you should integrate even the dumbest of features to a product, just do it and don't question. Amazon Echo apparently didn't and it's not being left in the [dark](http://www.techhive.com/article/2986685/home-automation/amazon-echo-learns-some-new-tricks-can-now-control-insteon-lights.html).
