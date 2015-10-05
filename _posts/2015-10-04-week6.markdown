@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Week of 4 Oct"
+date:  2015-10-04
+categories: weekly
+---
+As midterms come around, the pressure is on to make sure you got all the little details that could make or break your grade (because grades matter in school).
+
+Otherwise, class exposed us to the lambdas lurking in the lagoon. These creatures are beautiful, but tricky to grasp. Reading some of the links provided helped to clarify some of the syntax and open up some of the ways that these creatures could be used. Part of that struggle is to realize that the capture-list captures the variables in the state that they are when the lambda is written in the code. This of course can be side-stepped with the use of references, which will allow further modification post-declaration.
+
+Creating classes in C++ for the first time in ages was a lot of, "Ooh...wait...wasn't it...why can't we use our computers in class?". The syntax for overloading operators was mostly there, but in all the wrong places. Keywords were jumbled and const's were extinct for the most part. However, the meat of the methods was mostly correct. There were some not so proud moments when trying to remember if C++ used 'self' or 'this'.
+
+While creating the class was bit difficult when trying to remember syntax, the class itself seems to be a strange thing to have. The RangeIterator may have been useful just to illustrate how classes work with overloaded operators and explicitly show what users need to define themselves for certain expected functionality.
+
+Tip of the Week: Blocking ads saves you time and money? Who knew [explicit sarcasm]? The people over at NYT made some pretty graphs to really hone down on [iiittt](http://www.techtimes.com/articles/91362/20151003/ios-ad-blockers-help-you-browse-faster-and-save-money-nyt-study-finds.htm).
