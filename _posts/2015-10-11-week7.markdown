@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Week of 4 Oct"
+date:  2015-10-04
+categories: weekly
+---
+I don't remember much about the week class-wise which is probably not so good. What I do remember are the questions that were on the test and the errors that I made in regards to a couple of them. It is always frustrating when you leave the exam, go to bed, and wake up the next morning thinking, "fudge". Other people may not have these moments, but I apparently am always having these moments. So, now I await the points to be taken off and my grade to suffer.
+
+Logistically, the test felt like a cramp working its way into my shoulders and back. There was barely and room to extend my elbows and allow a comfortable position to write on my test. Am I being to optimistic about testing conditions? Should we take test in an un-air-conditioned room with low-lighting next to blaring sirens? The test perfectly fine, well written, and pertinent to the course. The room? A place where dreams die and chiropractors swarm. Can we get a better test room? Maybe one of those auditoriums with actual desks? I have never gotten over the fact that some college course force students to take test in little tiny seats with a puny piece of wood that can barely fit a single sheet of paper on it. Sure, they are great when you have to fit a ton of people into a small space; but, can you really say that those people can actually work? Sure, there are people who can go through the motions; but, there is a certain amount of brain distracted by the awkward writing pose that you have to assume to put pencil to paper.
+
+Tip of the Week: The information inside apps is going to be indexed by Google. Whoot? When your too lazy to navigate your apps to find information, Google will do it for you. When you too lazy to get up and go to work, Google will index your brain and execute the commands for you. The last bit has not happened yet, but it will. The app indexing is coming in May says [appleinsider](http://appleinsider.com/articles/15/10/09/google-enables-app-indexing-with-deep-linking-for-safari-in-ios-9).
