@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Week of 18 Oct"
+date:  2015-10-18
+categories: weekly
+---
+This week, like last week, is a blur but for good reason. I was not in class Friday. Boo! Well, that's too bad, I went on an interview. That was fun, but I missed the one and only quiz of the week. :(
+
+Professor Downing went over project 3 and I listened. I'm not sure what else I can say. The idea of making an allocator seems boring at this moment that I sit here typing this blog post. This may be due to the fact that I am super tired and too many projects to complete and knowledge to learn. But yes, the project. Sentinels, something about joining the sequential blocks that are free and other project requirements were mentioned. Trying to make test cases... The project does not sound interesting. Sure, it will be a workout to build the concepts into code, but interesting? Not really. I have said this already... I'm just a broken record at this point.
+
+The weeks are melting together a bit so I'm not certain if this was this week or last week, but here goes. In class, I found out/re-remembered that if you create a class A and a class B that extends A, then you can make objects of A and B. However, if you make an instance of B and assign it to a variable of type B, then something funny happens. If class B overrides a method in class A, then when that variable of type B executes the method, the class A definition of the method is executed. What?!? Well, that's all that stood out for me this week.
+
+Tip of the Week: Following up from last week's [tip of the week](http://minbi.github.io/Bloggity/weekly/2015/10/11/week7.html), Google also indexes the webpages that could not be found otherwise by recording your browsing history through Google Chrome.
