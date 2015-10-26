@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Week of 25 Oct"
+date:  2015-10-25
+categories: weekly
+---
+A scramble to the finish line as project 3 comes to a close. After 24 hours, no email has been sent to me. That can only mean I have failed terribly at submitting my project. Whatever shall I do? I don't understand why we have to submit into a black box. Canvas is capable of accepting a plain-text submission. Then we could see what the submission was and whether or not it was what we thought it was. Those are just my thoughts on that portion of the ordeal.
+
+To be terribly truthful, I find myself waiting for class to end. That is bad. I'm probably not learning as much and wasting my time in the class. Vectors blah, lists blah, containers blah is what is going through my mind. I don’t particularly like that there aren’t summary slides. However, just having any old slides isn’t helpful. I have seen slides that have just made the subject more confusing. “But in the real world you will not get slides or notes and you’ll have to research it yourself.” But this isn’t the real world. This is a school that we pay quite a hefty amount of money to be at. I don’t know. I may just be going through something, but not having good slides makes it harder to re-initiate that excitement to learn.
+
+So what are we learning in class? Anyone want to give me few pointers? I’ll buy you lunch if you do a good job. No joke.
+
+Tip of the Week: Whenever you update, check over (everything)[ http://www.engadget.com/2015/10/25/apple-sued-over-ios-9-wifi-assist/]. Wifi assist will eat up all your data.
