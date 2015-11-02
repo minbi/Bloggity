@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Week of 1 Nov"
+date:  2015-11-01
+categories: weekly
+---
+Finding out you got a zero on an assignment that you are pretty sure that you turned in is unsettling. I think I misunderstood something about the late submission process and I'm definitely feeling the consequences now. Hopefully I can get in touch with one of the TAs to figure out if I can correct my mistake or just cry like a little baby. I don't know what will happen.
+
+Working on the 4th project reminds me of AP Computer Science when we played with GridWorld. It was such a daunting setup when we were first introduced to it. Not only was it like a framework, there was a large amount of gui that blew us away. Most of our previous programs were just terminal I/O. Well, we circle around back to the project by building the terminal version of GridWorld and few other specifications. Not being able to use getters and setters makes thinking about the problem just slightly different and a whole lot of intertwined method calls. This makes me seriously consider whether that really makes for a better way to do things. We expect a certain data type with getters and we expect a certain data type with setters. When we do not use them, we expect a certain method to be there. So, if I were to change the underlying structure of the class, then I call a certain method. This method is not a getter or setter, but still makes assumptions based on the class it is interacting with and the other class also makes such assumptions. If we phase out the ability for a class to perform a certain action, then the other class would still have to be notified somehow. The whole idea that making an object class not have getters and setters doesn't seem to solve anything in my head. However, I'm probably missing something...yet again.
+
+Tip of the Week: Undergrads can run jobs on condor. So much power...[condor](https://www.cs.utexas.edu/facilities/documentation/condor)
