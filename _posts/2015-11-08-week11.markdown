@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Week of 8 Nov"
+date:  2015-11-08
+categories: weekly
+---
+I find it fascinating that this semester is almost over. What have we learned I wonder? I can't think of anything, but when can you ever at a moments notice. I'm sure I'll be working on a project later and be like "learned that from OOP".
+
+This week in class we briefly covered function overloading? What did we cover? I'm looking through the code posted in the week and can't seem to remember when we went over those examples. I wonder where my mind has been. Oh, that's right, I was super stressed about interviews. Even if I'm pretty sure which company I want to go to, I don't want to blow off an interview.
+
+Other than the fact that I can't seem to remember what happened during class, I finished project Darwin. That project was...fun? There were some parts of the project I wish were more explicit because I didn't realize that the control statements did not count towards the Creature's one action per turn until close to the deadline. Good thing was that my code was so well organized and designed that it didn't take long to make that change. Damn somone should hire me. Oh wait XD. Arrogance will be my downfall.
+
+Another note about Darwin. The amount of object copying that occurs when you are not careful can be astronomical -_-.
+
+Tip of the Week: Google has open-sourced TensorFlow. I have yet to try it out, but it seems cool just because Google released it.
