@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Week of 15 Nov"
+date:  2015-11-15
+categories: weekly
+---
+The week began with an overview of the last project of the class. Life. What would we do without life? I remember doing something of a similar nature in the 'Intro to C++' class. The project rubric may have been less strict than the one we are provided in this class, but the concept remains the same, so hopefully there are not too many hiccups along the way.
+
+In the middle of the week, we had another lecturer. This time Atlassian came to educate us on their company's approach to software. The goats were amusing. I have long felt that gifs were an atrocious file format because of their compression technique. I didn't know that they were being converted to mp4s in the background to better performance, so that was an interesting thing to learn.
+
+Afterwards, we touched on another iteration of Shape. It seems this time around there are some extra methods equals, reads, and write. Operator overloading in the child class seems to benefit from this change. We seem to be able to perform dynamic casts now, but I'm not sure why we can now versus before.
+
+Tip of the Week: Google has open-sourced TensorFlow and I still haven't tried it yet, but me and buddy are going to try doing something...soon. Check out the blank repo [here](https://github.com/vicyap/machine-learning)
