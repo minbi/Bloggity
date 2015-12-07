@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Week of 22 Nov"
+date:  2015-22-15
+categories: weekly
+---
+Method overriding was easy enough, but the details are what get you. The fact that a statement could potentially not compile makes the guessing a little more tricky.
+
+The deadline for Life approached faster and faster throughout the week and my days never seem to get any more free. There were several times when I was hit with a wall of unreadable compile errors and I had to rely on advice from my collegues. How can compilers be so cryptic sometimes? As I wrote my code, I could not stop thinking about the endless unit tests that I would have to write for this project, as I did for the last project. The grand total was something in the 90s. The daunting task ate away a lot of my hours. The issue really is that I could not just have extra files to place my test cases. Typing test cases is easy, but putting them into the Google test format is quite annoying. There probably is a way to read files for the Google test, but we are not allowed to have extra files. Now that I am writing this I wonder if I could have parse one of the c++ files until the end of the code and then have "comments" that were actually the test cases...hmmm. That probably would have taken longer. However, it is a viable workaround to the "no extra files" rule for our projects.
+
+Tip of the Week: UTCS apparently has snapshots of your files, so in case you cause catastrophic damage to a project you have been working on for a while, you can recover those crucial files. [Read more](https://www.cs.utexas.edu/facilities/documentation/snapshots)
