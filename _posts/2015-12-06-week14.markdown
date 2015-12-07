@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Summary Post ~ Week of 6 Dec"
+date:  2015-12-06
+categories: weekly
+---
+For the final post, a change of structure is in order.
+
+During the first half of the class, much of the material quite basic and anyone with a little experience with C++ could probably fly through it without too much difficulty. There are interesting tidbits of information that are interspersed into the general information.
+
+During the second half of the class, this is when my prior knowledge or lack of seemed to fall out the window. Another reason may have been too many interviews to deal with and I had to actually study a little because my skills were quite rusty. This is when one should really focus for a little bit during class or else you won't learn much. The projects become a little harder because some of the problems are buried in how C++ functions. You might not be able to understand how to properly do things without paying attention during class.
+
+The speakers that came to speak about their respective companies were a relaxing experience. They were a nice break from the relentless quizzes that occur at the beginning of class. speakers are never announced before hand. I would suggest having some general questions prepared at anytime. Ask them if they are relevant to the company.
+
+The quizzes that occur at the beginning of all classes are sometimes harder than other times. There is nothing too terrible about them. Although I wish I did better on them. The questions were fair. We did the quizzes on TopHat this semester, but migrated over to Canvas during the last 4 quizzes, so future students might do all quizzes on Canvas.
+
+The projects are relatively simple. I say this, but other people seem to struggle a bit, so that may just be my smarts and rather helpful friends. The thing that will kill you are the unit tests. I suggest starting early just because of this reason. Ooh, but another reason to start early is so that you aren't rushed to turn it in at 10pm, because that could cost you dearly. The grading is very stringent about having all the correct URLs, files, and git commits. The late penalty is brutal and will make you cry for dear life.
+
+The two tests are straight forward, but testing. Our first test was given on paper, but our second test was given via Canvas while we sat in the classroom. This may be the format in the future. I have to say typing my answers were much more relaxing than having to write them on a tiny piece of paper that barely fits on the disgustingly small 'desk' in most lecture halls. Another great added NEW functionality is the backspace and delete actions that allow for quick rewrites of misinterpreted instructions or general mistakes. Although, I miss having to brush a small mound of eraser shavings onto the person next to me. I hope that tests are given via Canvas or electronically in the future. Oh, study for the tests by looking through the code samples and possibly implementing yourself once or twice.
+
+Elephants.
